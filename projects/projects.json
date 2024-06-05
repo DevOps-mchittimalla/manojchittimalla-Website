@@ -65,12 +65,12 @@
     }
   },
   {
-    "name": "Linux & Windows Infra Automation",
-    "desc": "Worked as an Automation Office Lead, automated On Premises infrastructure by using DevOps Technologies Ansible, Ansible Tower, Python, Jenkins, Git, Docker",
+    "name": "Linux Windows Infra Automation",
+    "desc": "Worked as an Automation Office Lead automated On Premises infrastructure by using DevOps Technologies",
     "image": "ikea",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://reactjsprojects.herokuapp.com/"
+     
     }
   },
   {
