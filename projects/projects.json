@@ -74,23 +74,21 @@
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
+    "name": "Infrastructure Provisioning",
+    "desc": "Worked as DevOps Engineer and automated Infrastructure Provisioning and configuration for Genesys Product",
+    "image": "genesys",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Infra Automation",
+    "desc": "Infrastructure Automation for Zurich Client",
+    "image": "zurich",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://jigar-sable.github.io/JavaScript-Projects"
+  
     }
   },
   {
