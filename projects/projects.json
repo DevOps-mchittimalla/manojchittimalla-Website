@@ -2,14 +2,8 @@
   {
     "name": "Cloud services automation for Multinational Banking Client",
     "role": "Azure DevOps Technical Lead"
-    "desc": "As a service offering team, we provide automation and auto remediation solutions to client.
-            we collaboratively engaging with cross-platform Agile development to implementing continuous integration,
-            zero-touch automation, and containerization, with a keen focus on enhancing security in cloud platform
-            Microsoft Azure.
-            Managing extensive enterprise applications and implementing continuous integration and deployment, enabling
-            secure logging with SSO and implementing RBAC. creating build and release pipelines for serverless application
-            deployment and scalability. I am actively contributing to the creation and deployment of Azure App Services and
-            leveraging various Azure tools for comprehensive solutions.",
+    "desc": "As a service offering team, we provide automation and auto remediation solutions to client",
+            
     "image": ".assets/images/bankofamerica.png",
   
     "links": {
@@ -49,14 +43,8 @@
   {
     "name": "Cloud services automation for Multinational Banking Client",
     "role": "Azure DevOps Technical Lead"
-    "desc": "As a service offering team, we provide automation and auto remediation solutions to client.
-            we collaboratively engaging with cross-platform Agile development to implementing continuous integration,
-            zero-touch automation, and containerization, with a keen focus on enhancing security in cloud platform
-            Microsoft Azure.
-            Managing extensive enterprise applications and implementing continuous integration and deployment, enabling
-            secure logging with SSO and implementing RBAC. creating build and release pipelines for serverless application
-            deployment and scalability. I am actively contributing to the creation and deployment of Azure App Services and
-            leveraging various Azure tools for comprehensive solutions.",
+    "desc": "As a service offering team, we provide automation and auto remediation solutions to client",
+          
     "image": ".assets/images/bankofamerica.png",
   
     "links": {
