@@ -41,15 +41,15 @@
   },
   {
     "name": "Cloud services automation",
-    "desc": " Cloud services automation for Bank of America Client",
+    "desc": "Cloud services automation for Bank of America Client",
     "image": "bankofamerica",
     "links": {
       "view": "https://github.com/jigar-sable/instagram-mern"
     }
   },
   {
-    "name": ":Infrastructure automation",
-    "desc": ":Infrastructure automation & RHEL Migration for Bank of America Client",
+    "name": "Infrastructure automation",
+    "desc": "Infrastructure automation & RHEL Migration for Bank of America Client",
     "image": "bankofamerica",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
