@@ -40,9 +40,9 @@
     }
   },
   {
-    "name": "Cloud services automation for Multinational Banking Client",
+    "name": "Cloud services automation",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "assets/images/bankofamerica.png",
+    "image": "bankofamerica",
     "category": "mern",
     "links": {
       "code": "https://github.com/jigar-sable/instagram-mern"
