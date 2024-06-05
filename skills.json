@@ -58,5 +58,19 @@
     {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    }   
+    },
+    {
+        "name": "ServiceNow",
+        "icon": "assets/images/black.png"
+    },
+    {
+        "name": "YAML",
+        "icon": "assets/images/black.png"
+    },
+    {
+        "name": "PowerShell",
+        "icon": "assets/images/black.png"
+    } 
+
+    
 ]
