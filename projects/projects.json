@@ -56,20 +56,18 @@
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+    "name": "User Onboarding Automation",
+    "desc": ""Worked as an Product specalist for iLert and Onboarded Enterprise application for Swedish Retail Company IKEA",
+    "image": "ikea",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://resumegenx.netlify.app/"
+     
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
+    "name": "Linux & Windows Infra Automation",
+    "desc": "Worked as an Automation Office Lead, automated On Premises infrastructure by using DevOps Technologies Ansible, Ansible Tower, Python, Jenkins, Git, Docker",
+    "image": "ikea",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
       "code": "https://github.com/jigar-sable/React-Projects"
